@@ -1,0 +1,20 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    margin: 0px;
+}
+
+#back {
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.3);
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}

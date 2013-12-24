@@ -1,0 +1,10 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "Show Bing's picture of the day on the new tab screen.",
+   "manifest_version": 2,
+   "name": "Bing Picture of the Day New Tab",
+   "permissions": [ "unlimitedStorage", "http://www.bing.com/" ],
+   "version": "1.0"
+}
