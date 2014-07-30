@@ -1,0 +1,10 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "Show Webshot's picture of the day on the new tab screen.",
+   "manifest_version": 2,
+   "name": "Webshot Picture of the Day New Tab",
+   "permissions": [ "unlimitedStorage", "https://www.webshots.com/", "https://*.cloudfront.net/" ],
+   "version": "1.0"
+}

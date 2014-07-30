@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>in.vivekja.bing-potd</string>
+	<string>in.vivekja.potd</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>python</string>
-		<string>/Users/vivek/Library/Scripts/bing-potd.py</string>
+		<string>/Users/vivek/Library/Scripts/potd.py</string>
 	</array>
 	<key>StartCalendarInterval</key>
 	<dict>

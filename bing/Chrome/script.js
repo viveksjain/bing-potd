@@ -46,11 +46,3 @@ function init_fs(fs) {
 }
 
 window.webkitRequestFileSystem(window.PERSISTENT, 5*1024*1024, init_fs);
-
-$(document).ready(function() {
-  $('#back').click(function() {
-    chrome.tabs.update({url:"chrome-internal://newtab/"});
-    return false;
-  });
-});
-
